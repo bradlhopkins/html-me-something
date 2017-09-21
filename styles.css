@@ -6,7 +6,7 @@ body {
 
 p.main {
     padding:  10px;
-    background-color:  turquoise;
+    color: blue;
 }
 
 article {
@@ -24,6 +24,7 @@ IMG {
     margin-right: auto;
 }
 
-#p {
-    padding-left: 45px;
+#special {
+    color: red;
+    background-color: green;
 }
